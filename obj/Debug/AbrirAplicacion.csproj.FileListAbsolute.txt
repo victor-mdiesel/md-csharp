@@ -1,0 +1,17 @@
+\\128.1.3.5\Desarrollo\Fuentes NET\Bibliotecas\AbrirAplicacion\bin\Debug\AbrirAplicacion.dll
+\\128.1.3.5\Desarrollo\Fuentes NET\Bibliotecas\AbrirAplicacion\bin\Debug\AbrirAplicacion.pdb
+\\128.1.3.5\Desarrollo\Fuentes NET\Bibliotecas\AbrirAplicacion\obj\Debug\AbrirAplicacion.csprojResolveAssemblyReference.cache
+\\128.1.3.5\Desarrollo\Fuentes NET\Bibliotecas\AbrirAplicacion\obj\Debug\AbrirAplicacion.dll
+\\128.1.3.5\Desarrollo\Fuentes NET\Bibliotecas\AbrirAplicacion\obj\Debug\AbrirAplicacion.pdb
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Bibliotecas\AbrirAplicacion\bin\Debug\AbrirAplicacion.dll
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Bibliotecas\AbrirAplicacion\bin\Debug\AbrirAplicacion.pdb
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Bibliotecas\AbrirAplicacion\obj\Debug\AbrirAplicacion.dll
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Bibliotecas\AbrirAplicacion\obj\Debug\AbrirAplicacion.pdb
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Bibliotecas\AbrirAplicacion\obj\Debug\AbrirAplicacion.csprojResolveAssemblyReference.cache
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Lib\AbrirAplicacion.dll
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Lib\AbrirAplicacion.pdb
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Biblioteca\AbrirAplicacion\obj\Debug\AbrirAplicacion.dll
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Biblioteca\AbrirAplicacion\obj\Debug\AbrirAplicacion.pdb
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Biblioteca\AbrirAplicacion\obj\Debug\AbrirAplicacion.csproj.AssemblyReference.cache
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Biblioteca\AbrirAplicacion\obj\Debug\AbrirAplicacion.csproj.CoreCompileInputs.cache
+\\128.1.3.5\Desarrollo\Fuentes Sispro-Sap\Fuentes NET\Biblioteca\AbrirAplicacion\obj\Debug\AbrirAplicacion.csproj.CopyComplete
